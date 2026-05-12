@@ -1,4 +1,4 @@
-# 
+# Enhance Notion for Windows with smart Notion for Windows Utility | markdown-support + dark-mode, the #1 utility. Includes markdown-support and dark-mode for a smoother and more
 
 
 
